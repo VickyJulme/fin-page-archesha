@@ -1,0 +1,29 @@
+h1{
+    
+}
+
+
+
+
+
+
+
+
+.con1{
+
+    width: 800px;
+    height: 480px;
+    background-color: red;
+    justify-content: center;
+    align-items:center;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background-image:  url('https://cdn.usegalileo.ai/sdxl10/f19572df-3304-4064-aa15-f19df58d4b06.png');
+    background-position: ;
+}
+
+
+
+    /* background-image: url('https://cdn.usegalileo.ai/sdxl10/f19572df-3304-4064-aa15-f19df58d4b06.png'); */
+ 

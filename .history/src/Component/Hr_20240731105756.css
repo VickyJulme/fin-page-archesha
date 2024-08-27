@@ -1,0 +1,28 @@
+h1{
+    
+}
+
+
+
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1006px;
+    height: 215;
+    border: 1px black solid;
+    margin: 0 auto;
+}
+
+.flex-item {
+    width: 318px;
+    height: 200px;
+    border: 1px black solid;
+    background: #369;
+    position: relative;
+}
+
+.para{
+    position: absolute;
+    top: 80px;
+}
